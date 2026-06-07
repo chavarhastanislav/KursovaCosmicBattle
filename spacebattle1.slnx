@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SPACEBATTLE_SERVER/SPACEBATTLE_SERVER.csproj" />
+  <Project Path="spacebattle1.csproj" />
+</Solution>
